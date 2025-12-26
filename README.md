@@ -1,9 +1,9 @@
 # Prerequisites
 ######
 - JDK 25 
-- Maven 4.0 
-- MySQL 9
-- Random
+- Maven 4.5 
+- MySQL 10
+- Random 1
 
 # Technologies 
 - JAKARTA
