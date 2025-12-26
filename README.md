@@ -1,7 +1,7 @@
 # Prerequisites
 ######
 - JDK 25 
-- Maven 4.5 
+- Maven 5.0 
 - MySQL 10
 - Random 1
 
